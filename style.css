@@ -3,3 +3,30 @@ body {
   height: 100%;
   margin: 0;
 }
+ 
+#details{
+  border: 1px solid red;
+  display: flex;
+  background-color: red;
+  justify-content: space-between;
+}
+
+#featured-property{
+  display: block;
+
+}
+
+header{
+  display: block;
+  align-content: center;
+  margin-left: 350px;
+}
+
+img{
+  align-items: center;
+justify-content: center;
+}
+
+#featured-property{
+align-items: center;
+}
